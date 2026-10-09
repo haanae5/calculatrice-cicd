@@ -1,6 +1,6 @@
 
 def addition(a, b):
-    return a + b
+    return a - b  # <-- BUG volontaire
 
 
 def soustraction(a, b):
